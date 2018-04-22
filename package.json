@@ -1,0 +1,24 @@
+{
+  "name": "npm_learn",
+  "version": "1.0.0",
+  "description": "Learn How to Use npm",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pipu11qiao/npm_learn.git"
+  },
+  "author": "pipu11qiao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pipu11qiao/npm_learn/issues"
+  },
+  "homepage": "https://github.com/pipu11qiao/npm_learn#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
